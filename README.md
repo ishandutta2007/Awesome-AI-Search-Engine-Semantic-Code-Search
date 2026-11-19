@@ -72,87 +72,87 @@ Market dynamics reflect **moderate fragmentation with emergent "winner-takes-mos
 
 ## 🔓 Open-Source GitHub Projects
 
-*Sorted by GitHub Star Count (descending)*
+*Sorted by GitHub Stars_Count (descending)*
 
-- **[Firecrawl (`mendableai/firecrawl`)](https://github.com/mendableai/firecrawl)** [![GitHub stars](https://img.shields.io/github/stars/mendableai/firecrawl?style=social&color=white)](https://github.com/mendableai/firecrawl/stargazers)  
+- **[Firecrawl (`mendableai/firecrawl`)](https://github.com/mendableai/firecrawl)** [![GitHub_Stars](https://img.shields.io/github/stars/mendableai/firecrawl?style=social&color=white)](https://github.com/mendableai/firecrawl/stargazers)  
   🔥 Turn entire websites into clean, LLM-ready markdown or structured data with crawl, scrape, map, and extract endpoints built specifically for AI search engines and agents.
 
-- **[RAGFlow (`infiniflow/ragflow`)](https://github.com/infiniflow/ragflow)** [![GitHub stars](https://img.shields.io/github/stars/infiniflow/ragflow?style=social&color=white)](https://github.com/infiniflow/ragflow/stargazers)  
+- **[RAGFlow (`infiniflow/ragflow`)](https://github.com/infiniflow/ragflow)** [![GitHub_Stars](https://img.shields.io/github/stars/infiniflow/ragflow?style=social&color=white)](https://github.com/infiniflow/ragflow/stargazers)  
   🌊 Open-source RAG engine based on deep document understanding and multi-modal semantic search, synthesizing grounded answers with complete citations across complex enterprise corpora.
 
-- **[Crawl4AI (`unclecode/crawl4ai`)](https://github.com/unclecode/crawl4ai)** [![GitHub stars](https://img.shields.io/github/stars/unclecode/crawl4ai?style=social&color=white)](https://github.com/unclecode/crawl4ai/stargazers)  
+- **[Crawl4AI (`unclecode/crawl4ai`)](https://github.com/unclecode/crawl4ai)** [![GitHub_Stars](https://img.shields.io/github/stars/unclecode/crawl4ai?style=social&color=white)](https://github.com/unclecode/crawl4ai/stargazers)  
   🕷️ Open-source, lightning-fast web crawler and scraper tailored for LLMs and AI pipelines, outputting structured Markdown, chunks, and citations with minimal latency.
 
-- **[ripgrep (`BurntSushi/ripgrep`)](https://github.com/BurntSushi/ripgrep)** [![GitHub stars](https://img.shields.io/github/stars/BurntSushi/ripgrep?style=social&color=white)](https://github.com/BurntSushi/ripgrep/stargazers)  
+- **[ripgrep (`BurntSushi/ripgrep`)](https://github.com/BurntSushi/ripgrep)** [![GitHub_Stars](https://img.shields.io/github/stars/BurntSushi/ripgrep?style=social&color=white)](https://github.com/BurntSushi/ripgrep/stargazers)  
   ⚡ Blazingly fast line-oriented regex search tool respecting gitignore patterns, widely embedded in AI coding agents and local codebase indexers as the lexical retrieval backbone.
 
-- **[Meilisearch (`meilisearch/meilisearch`)](https://github.com/meilisearch/meilisearch)** [![GitHub stars](https://img.shields.io/github/stars/meilisearch/meilisearch?style=social&color=white)](https://github.com/meilisearch/meilisearch/stargazers)  
+- **[Meilisearch (`meilisearch/meilisearch`)](https://github.com/meilisearch/meilisearch)** [![GitHub_Stars](https://img.shields.io/github/stars/meilisearch/meilisearch?style=social&color=white)](https://github.com/meilisearch/meilisearch/stargazers)  
   🦀 Lightning-fast, Rust-based open-source search engine providing typo-tolerant full-text search and hybrid semantic search vector capabilities via an intuitive RESTful API.
 
-- **[LibreChat (`danny-avila/LibreChat`)](https://github.com/danny-avila/LibreChat)** [![GitHub stars](https://img.shields.io/github/stars/danny-avila/LibreChat?style=social&color=white)](https://github.com/danny-avila/LibreChat/stargazers)  
+- **[LibreChat (`danny-avila/LibreChat`)](https://github.com/danny-avila/LibreChat)** [![GitHub_Stars](https://img.shields.io/github/stars/danny-avila/LibreChat?style=social&color=white)](https://github.com/danny-avila/LibreChat/stargazers)  
   💬 Enhanced open-source AI platform featuring multi-model orchestration, integrated web search (SearXNG/Google/Bing/Tavily), file retrieval, and agents with source citations.
 
-- **[SearXNG (`searxng/searxng`)](https://github.com/searxng/searxng)** [![GitHub stars](https://img.shields.io/github/stars/searxng/searxng?style=social&color=white)](https://github.com/searxng/searxng/stargazers)  
+- **[SearXNG (`searxng/searxng`)](https://github.com/searxng/searxng)** [![GitHub_Stars](https://img.shields.io/github/stars/searxng/searxng?style=social&color=white)](https://github.com/searxng/searxng/stargazers)  
   🛡️ Privacy-respecting open-source metasearch engine aggregating results from 70+ search services with JSON API output—widely deployed as the default self-hosted web-search backend for AI agents.
 
-- **[Perplexica (`ItzCrazyKns/Perplexica`)](https://github.com/ItzCrazyKns/Perplexica)** [![GitHub stars](https://img.shields.io/github/stars/ItzCrazyKns/Perplexica?style=social&color=white)](https://github.com/ItzCrazyKns/Perplexica/stargazers)  
+- **[Perplexica (`ItzCrazyKns/Perplexica`)](https://github.com/ItzCrazyKns/Perplexica)** [![GitHub_Stars](https://img.shields.io/github/stars/ItzCrazyKns/Perplexica?style=social&color=white)](https://github.com/ItzCrazyKns/Perplexica/stargazers)  
   🔮 Self-hosted AI search engine alternative to Perplexity AI powered by SearXNG and local (Ollama) or cloud LLMs, featuring specialized Focus Modes and cited references.
 
-- **[Khoj (`khoj-ai/khoj`)](https://github.com/khoj-ai/khoj)** [![GitHub stars](https://img.shields.io/github/stars/khoj-ai/khoj?style=social&color=white)](https://github.com/khoj-ai/khoj/stargazers)  
+- **[Khoj (`khoj-ai/khoj`)](https://github.com/khoj-ai/khoj)** [![GitHub_Stars](https://img.shields.io/github/stars/khoj-ai/khoj?style=social&color=white)](https://github.com/khoj-ai/khoj/stargazers)  
   🧠 Open-source AI second brain and self-hosted search engine that indexes personal notes, documents, PDFs, GitHub code, and web content with citation-backed semantic retrieval.
 
-- **[Continue (`continuedev/continue`)](https://github.com/continuedev/continue)** [![GitHub stars](https://img.shields.io/github/stars/continuedev/continue?style=social&color=white)](https://github.com/continuedev/continue/stargazers)  
+- **[Continue (`continuedev/continue`)](https://github.com/continuedev/continue)** [![GitHub_Stars](https://img.shields.io/github/stars/continuedev/continue?style=social&color=white)](https://github.com/continuedev/continue/stargazers)  
   💻 Leading open-source AI code assistant for VS Code and JetBrains featuring an embedded codebase indexer (`@codebase`) combining Tree-sitter AST chunking and LanceDB vector search.
 
-- **[Qdrant (`qdrant/qdrant`)](https://github.com/qdrant/qdrant)** [![GitHub stars](https://img.shields.io/github/stars/qdrant/qdrant?style=social&color=white)](https://github.com/qdrant/qdrant/stargazers)  
+- **[Qdrant (`qdrant/qdrant`)](https://github.com/qdrant/qdrant)** [![GitHub_Stars](https://img.shields.io/github/stars/qdrant/qdrant?style=social&color=white)](https://github.com/qdrant/qdrant/stargazers)  
   🎯 High-performance open-source vector search engine and database written in Rust with extended filtering and hybrid search support, ideal for production semantic search backends.
 
-- **[Tabby (`tabbyML/tabby`)](https://github.com/tabbyML/tabby)** [![GitHub stars](https://img.shields.io/github/stars/tabbyML/tabby?style=social&color=white)](https://github.com/tabbyML/tabby/stargazers)  
+- **[Tabby (`tabbyML/tabby`)](https://github.com/tabbyML/tabby)** [![GitHub_Stars](https://img.shields.io/github/stars/tabbyML/tabby?style=social&color=white)](https://github.com/tabbyML/tabby/stargazers)  
   🐱 Self-hosted AI coding assistant with built-in repository context indexing, AST parsing, and code search engine powering privacy-first code completion and inline navigation.
 
-- **[Onyx (`onyx-dot-app/onyx`, formerly Danswer)](https://github.com/onyx-dot-app/onyx)** [![GitHub stars](https://img.shields.io/github/stars/onyx-dot-app/onyx?style=social&color=white)](https://github.com/onyx-dot-app/onyx/stargazers)  
+- **[Onyx (`onyx-dot-app/onyx`, formerly Danswer)](https://github.com/onyx-dot-app/onyx)** [![GitHub_Stars](https://img.shields.io/github/stars/onyx-dot-app/onyx?style=social&color=white)](https://github.com/onyx-dot-app/onyx/stargazers)  
   💎 Enterprise open-source AI workplace search platform connecting 40+ workplace data sources (GitHub, Confluence, Slack, Google Drive) with hybrid semantic retrieval and verified citations.
 
-- **[STORM (`stanford-oval/storm`)](https://github.com/stanford-oval/storm)** [![GitHub stars](https://img.shields.io/github/stars/stanford-oval/storm?style=social&color=white)](https://github.com/stanford-oval/storm/stargazers)  
+- **[STORM (`stanford-oval/storm`)](https://github.com/stanford-oval/storm)** [![GitHub_Stars](https://img.shields.io/github/stars/stanford-oval/storm?style=social&color=white)](https://github.com/stanford-oval/storm/stargazers)  
   🌪️ Open-source knowledge curation and research engine from Stanford NLP that conducts multi-perspective search queries to generate grounded, cited long-form analytical articles.
 
-- **[Serena (`oraios/serena`)](https://github.com/oraios/serena)** [![GitHub stars](https://img.shields.io/github/stars/oraios/serena?style=social&color=white)](https://github.com/oraios/serena/stargazers)  
+- **[Serena (`oraios/serena`)](https://github.com/oraios/serena)** [![GitHub_Stars](https://img.shields.io/github/stars/oraios/serena?style=social&color=white)](https://github.com/oraios/serena/stargazers)  
   🧩 Semantic coding-agent toolkit and MCP server leveraging Language Server Protocol (LSP) symbol graphs to provide AI agents with precise `find_symbol` and `find_referencing_symbols` search.
 
-- **[GPT-Researcher (`assafelovic/gpt-researcher`)](https://github.com/assafelovic/gpt-researcher)** [![GitHub stars](https://img.shields.io/github/stars/assafelovic/gpt-researcher?style=social&color=white)](https://github.com/assafelovic/gpt-researcher/stargazers)  
+- **[GPT-Researcher (`assafelovic/gpt-researcher`)](https://github.com/assafelovic/gpt-researcher)** [![GitHub_Stars](https://img.shields.io/github/stars/assafelovic/gpt-researcher?style=social&color=white)](https://github.com/assafelovic/gpt-researcher/stargazers)  
   🔬 Autonomous open-source deep-research agent conducting parallelized web and local document searches to compile detailed, citation-backed research reports.
 
-- **[Tree-sitter (`tree-sitter/tree-sitter`)](https://github.com/tree-sitter/tree-sitter)** [![GitHub stars](https://img.shields.io/github/stars/tree-sitter/tree-sitter?style=social&color=white)](https://github.com/tree-sitter/tree-sitter/stargazers)  
+- **[Tree-sitter (`tree-sitter/tree-sitter`)](https://github.com/tree-sitter/tree-sitter)** [![GitHub_Stars](https://img.shields.io/github/stars/tree-sitter/tree-sitter?style=social&color=white)](https://github.com/tree-sitter/tree-sitter/stargazers)  
   🌳 Foundational incremental parsing library powering syntax-aware code chunking, repository symbol maps, and structural AST extraction across 100+ programming languages.
 
-- **[SurfSense (`MODSetter/SurfSense`)](https://github.com/MODSetter/SurfSense)** [![GitHub stars](https://img.shields.io/github/stars/MODSetter/SurfSense?style=social&color=white)](https://github.com/MODSetter/SurfSense/stargazers)  
+- **[SurfSense (`MODSetter/SurfSense`)](https://github.com/MODSetter/SurfSense)** [![GitHub_Stars](https://img.shields.io/github/stars/MODSetter/SurfSense?style=social&color=white)](https://github.com/MODSetter/SurfSense/stargazers)  
   🏄 Open-source alternative to NotebookLM and Perplexity connecting personal knowledge bases (Slack, Notion, GitHub, YouTube, PDFs) with hybrid semantic + keyword search.
 
-- **[ast-grep (`ast-grep/ast-grep`)](https://github.com/ast-grep/ast-grep)** [![GitHub stars](https://img.shields.io/github/stars/ast-grep/ast-grep?style=social&color=white)](https://github.com/ast-grep/ast-grep/stargazers)  
+- **[ast-grep (`ast-grep/ast-grep`)](https://github.com/ast-grep/ast-grep)** [![GitHub_Stars](https://img.shields.io/github/stars/ast-grep/ast-grep?style=social&color=white)](https://github.com/ast-grep/ast-grep/stargazers)  
   🌲 Fast structural Abstract Syntax Tree (AST) code search and rewriting tool used by coding agents to query syntactic code patterns across large codebases.
 
-- **[CocoIndex (`cocoindex-io/cocoindex`)](https://github.com/cocoindex-io/cocoindex)** [![GitHub stars](https://img.shields.io/github/stars/cocoindex-io/cocoindex?style=social&color=white)](https://github.com/cocoindex-io/cocoindex/stargazers)  
+- **[CocoIndex (`cocoindex-io/cocoindex`)](https://github.com/cocoindex-io/cocoindex)** [![GitHub_Stars](https://img.shields.io/github/stars/cocoindex-io/cocoindex?style=social&color=white)](https://github.com/cocoindex-io/cocoindex/stargazers)  
   🥥 High-speed data and semantic code indexing framework written in Rust featuring incremental Tree-sitter code chunking and real-time vector sync.
 
-- **[Bloop (`BloopAI/bloop`)](https://github.com/BloopAI/bloop)** [![GitHub stars](https://img.shields.io/github/stars/BloopAI/bloop?style=social&color=white)](https://github.com/BloopAI/bloop/stargazers)  
+- **[Bloop (`BloopAI/bloop`)](https://github.com/BloopAI/bloop)** [![GitHub_Stars](https://img.shields.io/github/stars/BloopAI/bloop?style=social&color=white)](https://github.com/BloopAI/bloop/stargazers)  
   🔎 Fast code search engine using Tree-sitter, Rust, and semantic vector embeddings to search codebases using natural language and regex queries.
 
-- **[Morphic (`miurla/morphic`)](https://github.com/miurla/morphic)** [![GitHub stars](https://img.shields.io/github/stars/miurla/morphic?style=social&color=white)](https://github.com/miurla/morphic/stargazers)  
+- **[Morphic (`miurla/morphic`)](https://github.com/miurla/morphic)** [![GitHub_Stars](https://img.shields.io/github/stars/miurla/morphic?style=social&color=white)](https://github.com/miurla/morphic/stargazers)  
   ✨ Open-source AI-powered search engine with a generative UI built on Next.js, supporting multi-provider LLMs, SearXNG/Tavily search, and chat history persistence.
 
-- **[OpenGrok (`oracle/opengrok`)](https://github.com/oracle/opengrok)** [![GitHub stars](https://img.shields.io/github/stars/oracle/opengrok?style=social&color=white)](https://github.com/oracle/opengrok/stargazers)  
+- **[OpenGrok (`oracle/opengrok`)](https://github.com/oracle/opengrok)** [![GitHub_Stars](https://img.shields.io/github/stars/oracle/opengrok?style=social&color=white)](https://github.com/oracle/opengrok/stargazers)  
   🏛️ Battle-tested source code search and cross-reference engine supporting full-text, symbol, definition, and version-history indexing across massive repositories.
 
-- **[Farfalle (`rashadphz/farfalle`)](https://github.com/rashadphz/farfalle)** [![GitHub stars](https://img.shields.io/github/stars/rashadphz/farfalle?style=social&color=white)](https://github.com/rashadphz/farfalle/stargazers)  
+- **[Farfalle (`rashadphz/farfalle`)](https://github.com/rashadphz/farfalle)** [![GitHub_Stars](https://img.shields.io/github/stars/rashadphz/farfalle?style=social&color=white)](https://github.com/rashadphz/farfalle/stargazers)  
   🦋 Lightweight self-hosted AI search engine UI supporting local and cloud LLMs (Ollama, OpenAI, Groq) with SearXNG and Tavily web retrieval.
 
-- **[Zoekt (`sourcegraph/zoekt`)](https://github.com/sourcegraph/zoekt)** [![GitHub stars](https://img.shields.io/github/stars/sourcegraph/zoekt?style=social&color=white)](https://github.com/sourcegraph/zoekt/stargazers)  
+- **[Zoekt (`sourcegraph/zoekt`)](https://github.com/sourcegraph/zoekt)** [![GitHub_Stars](https://img.shields.io/github/stars/sourcegraph/zoekt?style=social&color=white)](https://github.com/sourcegraph/zoekt/stargazers)  
   ⚡ Fast trigram-based code search engine engineered by Sourcegraph for sub-second regex, symbol, and multi-repository code search at scale.
 
-- **[Code-Index-MCP (`johnhuang316/code-index-mcp`)](https://github.com/johnhuang316/code-index-mcp)** [![GitHub stars](https://img.shields.io/github/stars/johnhuang316/code-index-mcp?style=social&color=white)](https://github.com/johnhuang316/code-index-mcp/stargazers)  
+- **[Code-Index-MCP (`johnhuang316/code-index-mcp`)](https://github.com/johnhuang316/code-index-mcp)** [![GitHub_Stars](https://img.shields.io/github/stars/johnhuang316/code-index-mcp?style=social&color=white)](https://github.com/johnhuang316/code-index-mcp/stargazers)  
   🔌 Open-source Model Context Protocol (MCP) server providing AI coding assistants with persistent, semantic, and AST-indexed codebase search.
 
-- **[h100envy/gem-search (`h100envy/gem-search`)](https://github.com/h100envy/gem-search)** [![GitHub stars](https://img.shields.io/github/stars/h100envy/gem-search?style=social&color=white)](https://github.com/h100envy/gem-search/stargazers)  
+- **[h100envy/gem-search (`h100envy/gem-search`)](https://github.com/h100envy/gem-search)** [![GitHub_Stars](https://img.shields.io/github/stars/h100envy/gem-search?style=social&color=white)](https://github.com/h100envy/gem-search/stargazers)  
   💎 Open-source AI-powered search engine and grounded answer utility built for fast web retrieval, semantic synthesis, and streamlined search workflows.
 
 ---
@@ -172,7 +172,7 @@ Contributions are warmly welcomed! Help keep this ecosystem comprehensive, accur
 3. 📝 **Add/edit entries in `README.md`**:
    - Follow the existing table/list formatting conventions.
    - For SaaS products, supply specific starting tier pricing and exact free tier limits.
-   - For open-source repos, include the social-style star badge linked to `/stargazers`.
+   - For open-source repos, include the social-style Stars_Badge linked to `/stargazers`.
 4. 🚀 **Submit a Pull Request** with a concise description of your changes.
 
 ---
